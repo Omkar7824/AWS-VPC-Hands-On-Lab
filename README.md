@@ -17,7 +17,7 @@ Build a custom VPC with:
 
 ## 02. Network Architecture
 
-![VPC Network Diagram](./images/aws-vpc-network-diagram.png)
+![VPC Network Diagram](Architercture/aws-vpc-network-diagram.png)
 
 ---
 
