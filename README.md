@@ -61,7 +61,13 @@ Build a custom VPC with:
 
 ---
 
-## 05 Technologies Used
+## 05 Commands Used 
+- ping google.com
+- yum update -y
+
+---
+
+## 06 Technologies Used
 
 - Amazon VPC
 - EC2 Instances
@@ -71,13 +77,13 @@ Build a custom VPC with:
 
 ---
 
-## 06 Output
+## 07 Output
 
 ![VPC Network Diagram](Images/output.png)
 
 ---
 
-## 07 Folder Structure
+## 08 Folder Structure
 
 aws-vpc-hands-on-lab/
 │
@@ -91,5 +97,3 @@ aws-vpc-hands-on-lab/
 │ └── Public&PrivateInstances.png
 │ └── VPCs.png
 └── README.md
-
----
