@@ -61,7 +61,7 @@ Build a custom VPC with:
 
 ---
 
-##  Technologies Used
+## 05 Technologies Used
 
 - Amazon VPC
 - EC2 Instances
@@ -71,19 +71,25 @@ Build a custom VPC with:
 
 ---
 
-## 📦 Output
+## 06 Output
 
-![VPC Network Diagram](./images/aws-vpc-network-diagram.png)
+![VPC Network Diagram](Images/output.png)
 
 ---
 
-## 📁 Folder Structure
+## 07 Folder Structure
 
 aws-vpc-hands-on-lab/
 │
-├── images/
+├── Architecture/
 │ └── aws-vpc-network-diagram.png
-│
+├── Images/
+│ └── ElasticIPaddresses.png
+│ └── Internetgateways.png
+│ └── NATgateways.png
+│ └── Private&PublicSubnet.png
+│ └── Public&PrivateInstances.png
+│ └── VPCs.png
 └── README.md
 
 ---
