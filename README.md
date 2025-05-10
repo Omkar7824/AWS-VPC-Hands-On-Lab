@@ -1,4 +1,4 @@
-# 🛠️ AWS VPC Hands-On Lab
+#  AWS VPC Hands-On Lab
 
 This project demonstrates how to set up a custom **Virtual Private Cloud (VPC)** from scratch on AWS, including **networking components, subnets, EC2 instances, and secure internet access** using Internet and NAT Gateways.
 
